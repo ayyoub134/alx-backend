@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 n-resilient hypermedia pagination
+=======
+#!/usr/bin/env python3
+"""Deletion-resilient hypermedia pagination
+>>>>>>> 18cc4836abbbf6c9a7c6adfb96b319aedb190076
 """
 import csv
 from typing import Dict, List

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 gination
+=======
+# Pagination
+>>>>>>> 18cc4836abbbf6c9a7c6adfb96b319aedb190076
 
 This project contains tasks for learning to paginate data.
 
@@ -118,4 +122,7 @@ This project contains tasks for learning to paginate data.
 ## RESOURCES
 + [x] [REST API Design: Pagination](https://intranet.alxswe.com/rltoken/7Kdzi9CH1LdSfNQ4RaJUQw)
 + [x] [HATEOAS](https://intranet.alxswe.com/rltoken/tfzcEbTSdMYSYxsspJH_oA) 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 18cc4836abbbf6c9a7c6adfb96b319aedb190076

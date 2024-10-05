@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 gination helper function.
+=======
+#!/usr/bin/env python3
+"""Pagination helper function.
+>>>>>>> 18cc4836abbbf6c9a7c6adfb96b319aedb190076
 """
 from typing import Tuple
 

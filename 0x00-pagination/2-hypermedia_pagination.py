@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 gination sample.
+=======
+#!/usr/bin/env python3
+"""Hypermedia pagination sample.
+>>>>>>> 18cc4836abbbf6c9a7c6adfb96b319aedb190076
 """
 import csv
 import math
